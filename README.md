@@ -1,4 +1,4 @@
-# Portfolio
+# portfolio
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mrstandu33/Portfolio/dev)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mrstandu33/Portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/mrstandu33/Portfolio)
