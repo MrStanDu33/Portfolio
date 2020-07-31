@@ -1,5 +1,5 @@
 # portfolio
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mrstandu33/Portfolio/dev)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mrstandu33/Portfolio/develop)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mrstandu33/Portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/mrstandu33/Portfolio)
 
@@ -7,7 +7,7 @@
 ![David](https://img.shields.io/david/mrstandu33/Portfolio)
 ![David](https://img.shields.io/david/dev/mrstandu33/Portfolio)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e067cba91c0b4251a8243769f40e005f)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mrstandu33/Portfolio&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/85d641ea151b47c0a6ee71adad0908c8)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mrstandu33/Portfolio&amp;utm_campaign=Badge_Grade)
 [![W3C Validation](https://img.shields.io/w3c-validation/html?label=w3c%20HTML%20validator&targetUrl=https%3A%2F%2Fdev.daniels-roth-stan.fr%2F)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdev.daniels-roth-stan.fr%2F)
 [![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fdev.daniels-roth-stan.fr)](https://securityheaders.com/?q=https%3A%2F%2Fdev.daniels-roth-stan.fr&followRedirects=on)
 
