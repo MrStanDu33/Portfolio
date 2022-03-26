@@ -10,7 +10,9 @@
     "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint:style": "stylelint **/*.{vue,css} --ignore-path .gitignore",
     "lint": "npm run lint:js && npm run lint:style",
-    "test": "jest"
+    "test": "jest",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint",
@@ -24,7 +26,8 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.12.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
-    "nuxt": "^2.14.0"
+    "nuxt": "^2.14.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.1.0",
@@ -44,5 +47,6 @@
     "stylelint": "^13.6.1",
     "stylelint-config-standard": "^20.0.0",
     "vue-jest": "^3.0.4"
-  }
+  },
+  "snyk": true
 }
